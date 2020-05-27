@@ -5,120 +5,280 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -70.642772,-33.427470 ]
+       "coordinates":  [ -70.6772987,-33.382155 ]
     },
     "properties": {
-    "name":"ejemplo 1",
-    "info":"aquí puedes escribir información sobre lo sucedido",
-    "source":"abc"
+    "Nombre":"OLLA DE LA ABUNDANCIA",
+    "Comuna":"conchalí",
+    "Contacto":"56964370291",
+    "Desde":"NA",
+    "Hasta":"NA"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -70.612543,-33.498644 ]
+       "coordinates":  [ -70.6772987,-33.382155 ]
     },
     "properties": {
-    "name":"ejemplo 2",
-    "info":"aquí puedes escribir información sobre lo sucedido",
-    "source":"abc"
+    "Nombre":"OLLAS COMUNES BARRIOS ZAPADORES",
+    "Comuna":"conchalí",
+    "Contacto":"56998465377",
+    "Desde":"NA",
+    "Hasta":"NA"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -70.984507,-33.418777 ]
+       "coordinates":  [ -70.6742287,-33.563302 ]
     },
     "properties": {
-    "name":"ejemplo 3",
-    "info":"aquí puedes escribir información sobre lo sucedido",
-    "source":"abc"
+    "Nombre":"OLLA COMÚN TERRITORIAL EL BOSQUE",
+    "Comuna":"el bosque ",
+    "Contacto":"56998169185",
+    "Desde":"NA",
+    "Hasta":"NA"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -70.810650,-33.354920 ]
+       "coordinates":  [ -70.5773237,-33.530338 ]
     },
     "properties": {
-    "name":"ejemplo 4",
-    "info":"aquí puedes escribir información sobre lo sucedido",
-    "source":"abc"
+    "Nombre":"LOS QUILLAYES",
+    "Comuna":"la florida",
+    "Contacto":"56987740813",
+    "Desde":"NA",
+    "Hasta":"NA"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -70.694505,-33.435198 ]
+       "coordinates":  [ -70.6389637,-33.583518 ]
     },
     "properties": {
-    "name":"ejemplo 5",
-    "info":"aquí puedes escribir información sobre lo sucedido",
-    "source":"abc"
+    "Nombre":"AYUDA PARTICULAR LA PINTANA",
+    "Comuna":"la pintana ",
+    "Contacto":"56931413467",
+    "Desde":"NA",
+    "Hasta":"NA"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -70.660632,-33.468430 ]
+       "coordinates":  [ -70.7602717,-33.523884 ]
     },
     "properties": {
-    "name":"ejemplo 6",
-    "info":"aquí puedes escribir información sobre lo sucedido",
-    "source":"abc"
+    "Nombre":"OLLA SOLIDARIA POPULAR MAIPÚ",
+    "Comuna":"maipú",
+    "Contacto":"56988107387",
+    "Desde":"NA",
+    "Hasta":"NA"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -70.711057,-33.447879 ]
+       "coordinates":  [ -70.6861948,-33.4881241 ]
     },
     "properties": {
-    "name":"ejemplo 7",
-    "info":"aquí puedes escribir información sobre lo sucedido",
-    "source":"abc"
+    "Nombre":"ASAMBLEA DE POBLADORES DE LA VICTORIA",
+    "Comuna":"pac",
+    "Contacto":"www.facebook.com/asambleapobladorxslavictoria",
+    "Desde":"NA",
+    "Hasta":"NA"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -70.711885,-33.562170 ]
+       "coordinates":  [ -70.551797,-33.487343 ]
     },
     "properties": {
-    "name":"ejemplo 8",
-    "info":"aquí puedes escribir información sobre lo sucedido",
-    "source":"abc"
+    "Nombre":"LO HERMIDA",
+    "Comuna":"peñalolén",
+    "Contacto":"56950000483",
+    "Desde":"NA",
+    "Hasta":"NA"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -70.645695,-33.464635 ]
+       "coordinates":  [ -70.551797,-33.487343 ]
     },
     "properties": {
-    "name":"ejemplo 9",
-    "info":"aquí puedes escribir información sobre lo sucedido",
-    "source":"abc"
+    "Nombre":"ESPERANZA ANDINA",
+    "Comuna":"peñalolén",
+    "Contacto":"56988575283",
+    "Desde":"NA",
+    "Hasta":"NA"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -70.674362,-33.412207 ]
+       "coordinates":  [ -70.551797,-33.487343 ]
     },
     "properties": {
-    "name":"ejemplo 10",
-    "info":"aquí puedes escribir información sobre lo sucedido",
-    "source":"abc"
+    "Nombre":"ASAMBLEATERRITORIAL18OCTUBRE",
+    "Comuna":"peñalolén",
+    "Contacto":"@o_asamblea",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.58403,-33.589452 ]
+    },
+    "properties": {
+    "Nombre":"JJVV LOS TRONCOS",
+    "Comuna":"puente alto",
+    "Contacto":"56995279111",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.58403,-33.589452 ]
+    },
+    "properties": {
+    "Nombre":"VILLA NOCEDAL",
+    "Comuna":"puente alto",
+    "Contacto":"56959188060",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.58403,-33.589452 ]
+    },
+    "properties": {
+    "Nombre":"SEMILLARTE DE BAJOS DE MENA",
+    "Comuna":"puente alto",
+    "Contacto":"facebook semillarte bajos de mena",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.729962,-33.361092 ]
+    },
+    "properties": {
+    "Nombre":"COMITÉ DE CESANTES DE QUILICURA",
+    "Comuna":"quilicura",
+    "Contacto":"@constanzadayz",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.639622,-33.39846 ]
+    },
+    "properties": {
+    "Nombre":"COMEDOR FRAY ANDRESITO",
+    "Comuna":"recoleta",
+    "Contacto":"conventorecoletafranciscana@gmail.com",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.699068,-33.608094 ]
+    },
+    "properties": {
+    "Nombre":"COMEDOR SOCIAL CINCO PINOS",
+    "Comuna":"san bernardo",
+    "Contacto":"56985277198",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.698274,-33.606816 ]
+    },
+    "properties": {
+    "Nombre":"LOMAS DE NOS ",
+    "Comuna":"san bernardo",
+    "Contacto":"56986053020",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.656085,-33.488556 ]
+    },
+    "properties": {
+    "Nombre":"COCINA SOLIDARIA BARRIO ATACAMA",
+    "Comuna":"san miguel",
+    "Contacto":"56999098115",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.647111,-33.533323 ]
+    },
+    "properties": {
+    "Nombre":"OLLA COMÚN LA BANDERA",
+    "Comuna":"san ramón",
+    "Contacto":"56987554173",
+    "Desde":"NA",
+    "Hasta":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.645843,-33.448219 ]
+    },
+    "properties": {
+    "Nombre":"OBSERVATORIO DE DD.HH. Y VIOLENCIA POLICIAL",
+    "Comuna":"santiago",
+    "Contacto":"56996187831",
+    "Desde":"NA",
+    "Hasta":"NA"
     }
   }
 ]
