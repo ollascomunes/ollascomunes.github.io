@@ -19,7 +19,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -70.6772987,-33.382155 ]
+       "coordinates":  [ -70.6657947,-33.389965 ]
     },
     "properties": {
     "Nombre":"OLLAS COMUNES BARRIOS ZAPADORES",
@@ -117,7 +117,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -70.551797,-33.487343 ]
+       "coordinates":  [ -70.564148,-33.481358 ]
     },
     "properties": {
     "Nombre":"ESPERANZA ANDINA",
@@ -131,7 +131,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -70.551797,-33.487343 ]
+       "coordinates":  [ -70.562411,-33.477567 ]
     },
     "properties": {
     "Nombre":"ASAMBLEATERRITORIAL18OCTUBRE",
@@ -159,7 +159,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -70.58403,-33.589452 ]
+       "coordinates":  [ -70.5969457,-33.58089 ]
     },
     "properties": {
     "Nombre":"VILLA NOCEDAL",
@@ -173,7 +173,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -70.58403,-33.589452 ]
+       "coordinates":  [ -70.588011,-33.584567 ]
     },
     "properties": {
     "Nombre":"SEMILLARTE DE BAJOS DE MENA",
