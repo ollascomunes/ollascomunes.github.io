@@ -1,2 +1,2 @@
-# example-map
-An example map using Leaflet + geoJSON
+# Ollas Comunes en la RM
+Leaflet + geoJSON
